@@ -1,5 +1,3 @@
--- dm Esze1ne#0018 sa magpapawhitelist --
-
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
